@@ -1,0 +1,30 @@
+/* Just wanted to add a little color and formatting to my page! */
+
+body {
+    background-color:rgb(162, 184, 255);
+    margin:0px;
+
+}
+
+nav {
+    background-color: darkblue;
+    color: white;
+    text-align: right;
+    padding: 30px;
+}
+
+table {
+    margin-left: auto;
+}
+
+td {
+    padding-left: 20px;
+}
+
+nav a {
+    color: white;
+}
+
+main {
+    margin: 48px;
+}
